@@ -32,13 +32,13 @@ What are you looking for if you need someone to advocate for you in your behalf?
 Would you feel better if such a person is backed by a strong organization/government institution? Why?
 
 In which areas would you most likely seek help:
-- [] Dealing with medical professionals (doctors, pharmacist, caretakers) to better understand issues and communicate more effectively
-- [] Dealing with Social Services and other government institutions
-- [] Filing forms and documents, e.g. insurance claims, registration/cancellation of services, etc
-- [] Dealing with technical issues, like setting up a WiFi connection or finding the right contractor for a repair job
-- [] Dealing with business disputes, e.g. negotiating an extension for payment or enquire about errors in a bill/invoice
-- [] Dealing with and representing you in minor legal issues - Note: this is not the same as providing professional legal advice.
-- [] Physical help with minor tasks
-- [] Others:_______________________
+- [ ] Dealing with medical professionals (doctors, pharmacist, caretakers) to better understand issues and communicate more effectively
+- [ ] Dealing with Social Services and other government institutions
+- [ ] Filing forms and documents, e.g. insurance claims, registration/cancellation of services, etc
+- [ ] Dealing with technical issues, like setting up a WiFi connection or finding the right contractor for a repair job
+- [ ] Dealing with business disputes, e.g. negotiating an extension for payment or enquire about errors in a bill/invoice
+- [ ] Dealing with and representing you in minor legal issues - Note: this is not the same as providing professional legal advice.
+- [ ] Physical help with minor tasks
+- [ ] Others:_______________________
 
 Note: Under no circumstances would the person/service providing assistance to you have access you your private information, such as banking details, etc.
